@@ -1,0 +1,35 @@
+﻿<Window x:Class="Wpf_DB_Bank.query"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Icon="image1/logo.jpg"
+        Title="Query" Height="335" Width="752">
+    <Grid Background="#FFFFCF48">
+        <Button x:Name="q1" Content="הצג תוצאה " HorizontalAlignment="Left" Margin="28,33,0,0" VerticalAlignment="Top" Width="75" Click="q1_Click">
+            <Button.Style>
+                <Style>
+                    <Style.Triggers>
+                       
+                        <DataTrigger Binding="{Binding ElementName=salary,Path=Text }" Value="">
+                            <Setter Property="Button.IsEnabled" Value="False"/>
+                        </DataTrigger>
+                        <DataTrigger Binding="{Binding ElementName=rank,Path=Text }" Value="">
+                            <Setter Property="Button.IsEnabled" Value="False"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+        </Button>
+        <Button  x:Name="q2"  Content="הצג תוצאה" HorizontalAlignment="Left" Margin="28,70,0,0" VerticalAlignment="Top" Width="75" Click="q2_Click"/>
+        <Button  x:Name="q3" Content="הצג תוצאה " HorizontalAlignment="Left" Margin="28,109,0,0" VerticalAlignment="Top" Width="75" Click="q3_Click"/>
+        <DataGrid x:Name="grid1" HorizontalAlignment="Left" Margin="28,146,0,0" VerticalAlignment="Top" Height="118" Width="528" Visibility="Hidden" IsReadOnly="True" Foreground="#FF008BEC"/>
+        <DataGrid x:Name="grid2" HorizontalAlignment="Left" Margin="28,146,0,0" VerticalAlignment="Top" Height="118" Width="528" Visibility="Hidden" IsReadOnly="True" Foreground="#FF008BEC"  />
+        <DataGrid x:Name="grid3" HorizontalAlignment="Left" Margin="28,146,0,0" VerticalAlignment="Top" Height="118" Width="528" Visibility="Hidden" IsReadOnly="True" Foreground="#FF008BEC" />
+        <Label Content="- רשימה של מספר העובדים שמרוויחים יותר מ" HorizontalAlignment="Left" Margin="394,27,-123,0" VerticalAlignment="Top" Width="473"/>
+        <Label Content="  :והם בדרגת" HorizontalAlignment="Left" Margin="246,27,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.132,0.038"/>
+        <ComboBox  x:Name="rank" ItemsSource="{Binding}"  HorizontalAlignment="Left" Height="20"  VerticalAlignment="Top" Width="87"    Visibility="Visible" Margin="159,33,0,0" />
+        <TextBox x:Name="salary" HorizontalAlignment="Left" Height="23" Margin="321,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="80" RenderTransformOrigin="0.308,0.478" PreviewTextInput="salary_PreviewTextInput"/>
+        <Label Content=" רשימה של כל הלקוחות שיש להם יותר משתי תנועות בחשבון" HorizontalAlignment="Left" Margin="318,64,-18,0" VerticalAlignment="Top" Width="444"/>
+        <Label Content=" רשימת כל הלקוחות שכרטיס האשראי שלהם פג תוקף" HorizontalAlignment="Left" Margin="352,103,0,0" VerticalAlignment="Top" Width="388"/>
+
+    </Grid>
+</Window>

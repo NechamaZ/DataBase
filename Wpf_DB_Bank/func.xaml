@@ -1,0 +1,9 @@
+﻿<Window x:Class="Wpf_DB_Bank.func"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Icon="image1/logo.jpg"
+        Title="Functions" Height="300" Width="300">
+    <Grid>
+        
+    </Grid>
+</Window>

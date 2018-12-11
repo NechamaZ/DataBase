@@ -1,0 +1,65 @@
+﻿<Window x:Class="Wpf_DB_Bank.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Icon="image1/logo.jpg"
+        Title="Bank" Height="812.536" Width="956.743">
+    <Grid Margin="0,0,-28,16" >
+        <Grid.Background>
+            <ImageBrush ImageSource="C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\image1\bankk.jpg" Stretch="Uniform"/>
+        </Grid.Background>
+
+        <StackPanel HorizontalAlignment="Left" Height="395" Margin="387,348,0,0" VerticalAlignment="Top" Width="195">
+            <Button x:Name="s" Content="Select"  Click="Select_Click_1" FontSize="24" MouseMove="Button_MouseMove_1" MouseLeave="s_MouseLeave" ToolTipService.InitialShowDelay="500" 
+        		ToolTipService.ShowDuration="2000" 
+        		ToolTipService.BetweenShowDelay="10000" 
+        		ToolTip="Show all the data tables." Background="#FFA0C4EE" />
+            <Button x:Name="c" Content="Client" FontSize="24" Click="Button_Click_1" MouseMove="Button_MouseMove_2" MouseLeave="c_MouseLeave" ToolTipService.InitialShowDelay="500" 
+        		ToolTipService.ShowDuration="2000" 
+        		ToolTipService.BetweenShowDelay="10000" 
+        		ToolTip="Click here for delete/update/insert Client." Background="#FFBE9447"/>
+            <Button x:Name="a" Content="Account" FontSize="24" Click="Button_Click_2" MouseMove="Button_MouseMove_3" MouseLeave="a_MouseLeave" Background="#FFA0C4EE"
+                     ToolTipService.InitialShowDelay="500" 
+        		ToolTipService.ShowDuration="2000" 
+        		ToolTipService.BetweenShowDelay="10000" 
+        		ToolTip="Click here for delete/update/insert account."/>
+            <Button x:Name="b"  Content="Branch" FontSize="24" Click="Button_Click_3" MouseMove="Button_MouseMove_4" MouseLeave="b_MouseLeave" Background="#FFBE9447"
+                     ToolTipService.InitialShowDelay="500" 
+        		ToolTipService.ShowDuration="2000" 
+        		ToolTipService.BetweenShowDelay="10000" 
+        		ToolTip="Click here for delete/update/insert branch."/>
+            <Button x:Name="cc"  Content="Credit-Card" FontSize="24" Click="Button_Click_4" MouseMove="Button_MouseMove_5" MouseLeave="cc_MouseLeave" Background="#FFA0C4EE" 
+                     ToolTipService.InitialShowDelay="500" 
+        		ToolTipService.ShowDuration="2000" 
+        		ToolTipService.BetweenShowDelay="10000" 
+        		ToolTip="Click here for delete/update/insert credit-card."/>
+            <Button  x:Name="w" Content="Worker" FontSize="24" Click="Button_Click_5" MouseMove="Button_MouseMove_6" MouseLeave="w_MouseLeave"  Background="#FFBE9447"
+                      ToolTipService.InitialShowDelay="500" 
+        		ToolTipService.ShowDuration="2000" 
+        		ToolTipService.BetweenShowDelay="10000" 
+        		ToolTip="Click here for delete/update/insert  worker."/>
+            <Button x:Name="t"  Content="Transactions" FontSize="24" MouseMove="t_MouseMove" MouseLeave="t_MouseLeave" Click="t_Click"  Background="#FFA0C4EE" 
+                     ToolTipService.InitialShowDelay="500" 
+        		ToolTipService.ShowDuration="2000" 
+        		ToolTipService.BetweenShowDelay="10000" 
+        		ToolTip="Click here for delete/update/insert transactions."/>
+           
+            <Button  x:Name="ac"  Content="Account Client" FontSize="24" Height="35" Background="#FFBE9447" Click="ac_Click"/>
+            <Button  x:Name="q"  Content="Show queries" FontSize="24" Click="q_Click" Background="#FFA0C4EE"
+                      ToolTipService.InitialShowDelay="500" 
+        		ToolTipService.ShowDuration="2000" 
+        		ToolTipService.BetweenShowDelay="10000" 
+        		ToolTip="Show the queries."/>
+           
+            <Button  x:Name="p"  Content="Procedure/Function" FontSize="21" Height="35" Background="#FFBE9447"
+                      ToolTipService.InitialShowDelay="500" 
+        		ToolTipService.ShowDuration="2000" 
+        		ToolTipService.BetweenShowDelay="10000" 
+        		ToolTip="Show procedures." Click="p_Click"/>
+          
+
+        </StackPanel>
+        <Label Content="Hodaya Pirian and Nechama Zeff"  HorizontalAlignment="Left" Height="39" Margin="319,717,0,0" VerticalAlignment="Top" Width="337" FontSize="22"/>
+
+
+    </Grid>
+</Window>

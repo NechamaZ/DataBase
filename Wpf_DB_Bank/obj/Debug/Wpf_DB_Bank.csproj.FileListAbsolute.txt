@@ -1,0 +1,158 @@
+Z:\DB_BANK\Wpf_DB_Bank\Wpf_DB_Bank\bin\Debug\Wpf_DB_Bank.exe.config
+Z:\DB_BANK\Wpf_DB_Bank\Wpf_DB_Bank\bin\Debug\Wpf_DB_Bank.exe
+Z:\DB_BANK\Wpf_DB_Bank\Wpf_DB_Bank\bin\Debug\Wpf_DB_Bank.pdb
+Z:\DB_BANK\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.csprojResolveAssemblyReference.cache
+Z:\DB_BANK\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\MainWindow.baml
+Z:\DB_BANK\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\MainWindow.g.cs
+Z:\DB_BANK\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\App.g.cs
+Z:\DB_BANK\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank_MarkupCompile.cache
+Z:\DB_BANK\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.g.resources
+Z:\DB_BANK\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.Properties.Resources.resources
+Z:\DB_BANK\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.csproj.GenerateResource.Cache
+Z:\DB_BANK\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.exe
+Z:\DB_BANK\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.pdb
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\bin\Debug\Wpf_DB_Bank.exe.config
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.exe
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.pdb
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\bin\Debug\Wpf_DB_Bank.exe
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\bin\Debug\Wpf_DB_Bank.pdb
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\MainWindow.baml
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\MainWindow.g.cs
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\App.g.cs
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank_MarkupCompile.cache
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.g.resources
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.Properties.Resources.resources
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.csproj.GenerateResource.Cache
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Select.baml
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Select.g.cs
+Z:\DB_BANK\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Select.baml
+Z:\DB_BANK\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Select.g.cs
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\clientUID.baml
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\clientUID.g.cs
+C:\Users\pirian\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\bin\Debug\Wpf_DB_Bank.exe.config
+C:\Users\pirian\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.exe
+C:\Users\pirian\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.pdb
+C:\Users\pirian\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\bin\Debug\Wpf_DB_Bank.exe
+C:\Users\pirian\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\bin\Debug\Wpf_DB_Bank.pdb
+C:\Users\pirian\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.csprojResolveAssemblyReference.cache
+C:\Users\pirian\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\clientUID.baml
+C:\Users\pirian\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\MainWindow.baml
+C:\Users\pirian\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Select.baml
+C:\Users\pirian\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\clientUID.g.cs
+C:\Users\pirian\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\MainWindow.g.cs
+C:\Users\pirian\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Select.g.cs
+C:\Users\pirian\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\App.g.cs
+C:\Users\pirian\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank_MarkupCompile.cache
+C:\Users\pirian\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.g.resources
+C:\Users\pirian\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.Properties.Resources.resources
+C:\Users\pirian\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.csproj.GenerateResource.Cache
+C:\Users\pirian\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\accountUID.baml
+C:\Users\pirian\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\accountUID.g.cs
+Z:\Wpf_DB_Bank\Wpf_DB_Bank\bin\Debug\Wpf_DB_Bank.exe.config
+Z:\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.exe
+Z:\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.pdb
+C:\Users\Nechama\Downloads\Wpf_DB_Bank\Wpf_DB_Bank\bin\Debug\Wpf_DB_Bank.exe.config
+C:\Users\Nechama\Downloads\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.exe
+Z:\מיני פרויקט בבסיסי נתונים\Wpf_DB_Bank\Wpf_DB_Bank\bin\Debug\Wpf_DB_Bank.exe.config
+Z:\מיני פרויקט בבסיסי נתונים\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.exe
+Z:\מיני פרויקט בבסיסי נתונים\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.csprojResolveAssemblyReference.cache
+Z:\מיני פרויקט בבסיסי נתונים\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\clientUID.baml
+Z:\מיני פרויקט בבסיסי נתונים\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\accountUID.baml
+Z:\מיני פרויקט בבסיסי נתונים\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\MainWindow.baml
+Z:\מיני פרויקט בבסיסי נתונים\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Select.baml
+Z:\מיני פרויקט בבסיסי נתונים\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Window1.baml
+Z:\מיני פרויקט בבסיסי נתונים\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\clientUID.g.cs
+Z:\מיני פרויקט בבסיסי נתונים\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\accountUID.g.cs
+Z:\מיני פרויקט בבסיסי נתונים\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\MainWindow.g.cs
+Z:\מיני פרויקט בבסיסי נתונים\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Select.g.cs
+Z:\מיני פרויקט בבסיסי נתונים\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Window1.g.cs
+Z:\מיני פרויקט בבסיסי נתונים\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\App.g.cs
+Z:\מיני פרויקט בבסיסי נתונים\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank_MarkupCompile.cache
+Z:\מיני פרויקט בבסיסי נתונים\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.g.resources
+Z:\מיני פרויקט בבסיסי נתונים\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.Properties.Resources.resources
+Z:\מיני פרויקט בבסיסי נתונים\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.csproj.GenerateResource.Cache
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\accountUID.baml
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\accountUID.g.cs
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\branchUID.baml
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\branchUID.g.cs
+C:\Users\pirian\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\branchUID.baml
+C:\Users\pirian\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\branchUID.g.cs
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\credit_cardUID.baml
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\credit_cardUID.g.cs
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\workerUID.baml
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\workerUID.g.cs
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\bin\Debug\Wpf_DB_Bank.exe.config
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.exe
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.pdb
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\bin\Debug\Wpf_DB_Bank.exe
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\bin\Debug\Wpf_DB_Bank.pdb
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.csprojResolveAssemblyReference.cache
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\branchUID.baml
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\clientUID.baml
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\accountUID.baml
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\credit_cardUID.baml
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\MainWindow.baml
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Select.baml
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\workerUID.baml
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\branchUID.g.cs
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\clientUID.g.cs
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\accountUID.g.cs
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\credit_cardUID.g.cs
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\MainWindow.g.cs
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Select.g.cs
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\workerUID.g.cs
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\App.g.cs
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank_MarkupCompile.cache
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.g.resources
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.Properties.Resources.resources
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.csproj.GenerateResource.Cache
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\transactionsUID.baml
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\transactionsUID.g.cs
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\transactionsUID.baml
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\transactionsUID.g.cs
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\func.baml
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\query.baml
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\func.g.cs
+Z:\proooo bank new\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\query.g.cs
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\query.baml
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\query.g.cs
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank_Content.g.cs
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.csprojResolveAssemblyReference.cache
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\proc.baml
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\proc.g.cs
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\account_client.baml
+C:\Users\nzeff\Desktop\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\account_client.g.cs
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\bin\Debug\Wpf_DB_Bank.exe.config
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.exe
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.pdb
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\bin\Debug\Wpf_DB_Bank.exe
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\bin\Debug\Wpf_DB_Bank.pdb
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.csprojResolveAssemblyReference.cache
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\account_client.baml
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\branchUID.baml
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\clientUID.baml
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\accountUID.baml
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\credit_cardUID.baml
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\MainWindow.baml
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\proc.baml
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\query.baml
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Select.baml
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\transactionsUID.baml
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\workerUID.baml
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\account_client.g.cs
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\branchUID.g.cs
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\clientUID.g.cs
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\accountUID.g.cs
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\credit_cardUID.g.cs
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\MainWindow.g.cs
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\proc.g.cs
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\query.g.cs
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Select.g.cs
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\transactionsUID.g.cs
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\workerUID.g.cs
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\App.g.cs
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank_Content.g.cs
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank_MarkupCompile.cache
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.g.resources
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.Properties.Resources.resources
+C:\Users\Nechama\Desktop\DataBase Project\Wpf_DB_Bank\Wpf_DB_Bank\obj\Debug\Wpf_DB_Bank.csproj.GenerateResource.Cache

@@ -1,0 +1,40 @@
+﻿<Window x:Class="Wpf_DB_Bank.proc"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="proc" Height="321" Width="629">
+    <Grid Margin="0,-2,0,2" Background="#FFFFCF48">
+        <Label Content="Choose client ID:" HorizontalAlignment="Left" Margin="20,69,0,0" VerticalAlignment="Top" Height="34" Width="188"/>
+        <ComboBox  x:Name="cid_combo" ItemsSource="{Binding}"  HorizontalAlignment="Left" Height="24"  VerticalAlignment="Top" Width="113"    Visibility="Visible" Margin="136,71,0,0" >
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                    <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                    <GradientStop Color="#FF919DEC" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+        </ComboBox>
+        <Button  Content="Make a pay raise" HorizontalAlignment="Left" Height="24" Margin="269,71,0,0" VerticalAlignment="Top" Width="150" Click="Button_Click_1">
+            <Button.Style>
+                <Style>
+                    <Style.Triggers>
+                        <DataTrigger Binding="{Binding ElementName=cid_combo,Path=Text }" Value="">
+                            <Setter Property="Button.IsEnabled" Value="False"/>
+                        </DataTrigger>
+                    </Style.Triggers>
+                </Style>
+            </Button.Style>
+
+        </Button>
+            
+        <Label Content="A procedure that will update the limit on the credit card to the selected client:" HorizontalAlignment="Left" Height="25" Margin="20,30,0,0" VerticalAlignment="Top" Width="465" FontWeight="Bold"/>
+        <Label Content="A function that will calculate the average salary at all branches of the Bank, &#xD;&#xA;and returns the branch code in which the average salary is the minimum of all:" HorizontalAlignment="Left" Height="45" Margin="20,163,0,0" VerticalAlignment="Top" Width="559" FontWeight="Bold"/>
+        <TextBlock x:Name="ans" Height="27" Margin="232,213,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="50" RenderTransformOrigin="0.906,0.704" Foreground="Black" FontSize="14" FontWeight="Bold" Background="White" HorizontalAlignment="Left" Padding="5" />
+        <Button Content="Click Here to see the answer" HorizontalAlignment="Left" Height="27" Margin="31,213,0,0" VerticalAlignment="Top" Width="177" Click="Button_Click_2"/>
+        
+
+
+
+
+
+
+    </Grid>
+</Window>
